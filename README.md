@@ -1,1 +1,3 @@
-# room
+# Voice controlled Room running on IoT framework
+
+I connected all electrical appliances (light bulbs, fans, switches, etc) in my room to opto-coupler traic pairs and 8 Channel Relays, whose inputs were fed by a state-machine based script run on Raspberry Pi(RPi). The RPi hosts the server that has a speech recognition module which requires voice commands as input. A python script is run to do text mining on the recognised text from user's speech. The commands can control backlight fit on the table, bed and other furniture. The LED strips array is configured to sync to music played on the server.
