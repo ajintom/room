@@ -1,0 +1,14 @@
+1 blue BlueStacks Bluetooth bluesteps
+2 RGB
+3 both
+
+1 on
+2 off of
+3 Blink blank
+
+4 change swap
+
+1
+1
+1
+000000000000001010101010101010100000000001111111111111
